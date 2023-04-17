@@ -46,11 +46,13 @@ nav {
 
 nav ul {
 display: block;
+text-align: center;
 background-color: #0d3b66;
 }
 
 nav ul li {
-display: block;
+display: inline-block;
+list-style-type: none;
 }
 
 nav a {
