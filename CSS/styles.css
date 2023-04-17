@@ -16,8 +16,13 @@ body {
 
 }
 
-h1 {
+title {
  color: #faf0ca;
+ font-size: 1.2em;
+}
+
+h1 {
+ 
 }
 
 h2 {
