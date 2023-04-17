@@ -22,7 +22,8 @@ title {
 }
 
 h1 {
- 
+    color: #faf0ca;
+    font-size: 1.2em;
 }
 
 h2 {
@@ -60,6 +61,7 @@ nav ul li {
 display: inline-block;
 list-style-type: none;
 width: 14%;
+background-color: #f4d35e;
 }
 
 nav a {
