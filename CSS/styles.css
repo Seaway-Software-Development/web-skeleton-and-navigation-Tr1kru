@@ -32,28 +32,32 @@ table {
 
 }
 
+head {
+    color: #faf0ca;
+}
+
 header {
     background-color: #0d3b66;
 }
 
-header nav {
+nav {
     color: #faf0ca;
 }
 
-header nav ul {
+nav ul {
 display: block;
-background-color: #f4d35e;
+background-color: #0d3b66;
 }
 
-header nav ul li {
+nav ul li {
+display: block;
+}
+
+nav a {
 
 }
 
-header nav a {
-
-}
-
-header nav a:hover {
+nav a:hover {
 
 }
 
@@ -63,24 +67,4 @@ main {
 
 footer {
     background-color: #0d3b66;
-}
-
-footer nav {
-    background-color: #0d3b66;
-}
-
-footer nav ul {
-
-}
-
-footer nav ul li {
-
-}
-
-footer nav a {
-
-}
-
-footer nav a:hover {
-
 }
