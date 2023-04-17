@@ -1,0 +1,86 @@
+/* CSS RESET */
+html body h1 h1 blockquote table header nav main footer {
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+/*
+Color Pallet: 
+0D3B66 - Blue
+FAF0CA - Tan
+F4D35E - Gold 
+*/
+
+body {
+
+}
+
+h1 {
+ color: #faf0ca;
+}
+
+h2 {
+
+}
+
+blockquote {
+
+}
+
+table {
+
+}
+
+header {
+    background-color: #0d3b66;
+}
+
+header nav {
+    
+}
+
+header nav ul {
+display: block;
+background-color: #f4d35e;
+}
+
+header nav ul li {
+
+}
+
+header nav a {
+
+}
+
+header nav a:hover {
+
+}
+
+main {
+
+}
+
+footer {
+    background-color: #0d3b66;
+}
+
+footer nav {
+    background-color: #0d3b66;
+}
+
+footer nav ul {
+
+}
+
+footer nav ul li {
+
+}
+
+footer nav a {
+
+}
+
+footer nav a:hover {
+
+}
