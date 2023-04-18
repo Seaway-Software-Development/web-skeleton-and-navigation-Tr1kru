@@ -52,7 +52,7 @@ header {
 
 .hnav {
     color: #faf0ca;
-    min-height: 50px;
+    min-height: 80px;
 }
 
 .hnav ul {
@@ -64,7 +64,7 @@ background-color: #0d3b66;
 .hnav ul li {
 display: inline-block;
 list-style-type: none;
-width: 14%;
+width: 20%;
 background-color: #f4d35e;
 }
 
