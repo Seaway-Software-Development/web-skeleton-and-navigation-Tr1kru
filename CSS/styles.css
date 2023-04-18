@@ -26,7 +26,7 @@ h1 {
     color: #faf0ca;
     font-size: 2.5em;
     font-weight: bold;
-    font-family: 'Bungee Shade';
+    font-family: 'Silkscreen', cursive;
 }
 
 h2 {
@@ -70,7 +70,7 @@ background-color: #f4d35e;
 
 .hnav a {
 color: #0d3b66;
-font-family: 'Bungee Shade', cursive;
+font-family: 'Silkscreen', cursive;
 }
 
 .hnav a:hover {
@@ -86,7 +86,7 @@ background-color: #f4d35e;
     width: 80%;
     display: inherit;
     padding: 20% 20% 150px;
-    font-family: 'Bungee Shade';
+    font-family: 'Silkscreen', cursive;
 
 }
 
@@ -97,7 +97,12 @@ section {
 footer {
     background-color: #0d3b66;
     color: #faf0ca;
+}
 
+footer p {
+    font-family: 'Silkscreen', cursive;
+    color: #faf0ca;
+    font-size: 2.5em;
 }
 
 .fnav {
@@ -119,7 +124,7 @@ background-color: #f4d35e;
 }
 
 .fnav a {
-    font-family: 'Bungee Shade', cursive;
+    font-family: 'Silkscreen', cursive;
     color: #0d3b66;
 }
 
