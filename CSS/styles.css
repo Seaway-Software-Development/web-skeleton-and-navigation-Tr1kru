@@ -18,12 +18,13 @@ max-width: 100%;
 
 title {
  color: #faf0ca;
- font-size: 1.2em;
+ font-size: 2.5em;
+ font-weight: bold;
 }
 
 h1 {
     color: #faf0ca;
-    font-size: 1.2em;
+    font-size: 2em;
 }
 
 h2 {
@@ -66,10 +67,11 @@ background-color: #f4d35e;
 }
 
 .hnav a {
-
+color: #0d3b66;
 }
 
 .hnav a:hover {
+    color: #faf0ca;
 
 }
 
@@ -81,6 +83,7 @@ background-color: #f4d35e;
     width: 80%;
     display: inherit;
     padding: 20% 20% 150px;
+
 }
 
 section {
@@ -89,6 +92,8 @@ section {
 
 footer {
     background-color: #0d3b66;
+    color: #faf0ca;
+
 }
 
 .fnav {
