@@ -44,36 +44,37 @@ head {
 
 header {
     background-color: #0d3b66;
+    height: 800px;
 }
 
-nav {
+.hnav {
     color: #faf0ca;
     min-height: 50px;
 }
 
-nav ul {
+.hnav ul {
 display: block;
 text-align: center;
 background-color: #0d3b66;
 }
 
-nav ul li {
+.hnav ul li {
 display: inline-block;
 list-style-type: none;
 width: 14%;
 background-color: #f4d35e;
 }
 
-nav a {
+.hnav a {
 
 }
 
-nav a:hover {
+.hnav a:hover {
 
 }
 
 main {
-
+background-color: #f4d35e;
 }
 
 footer {
