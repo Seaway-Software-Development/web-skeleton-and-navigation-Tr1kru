@@ -138,12 +138,16 @@ section a {
 .grid {
 		display: grid;
 		grid-template-columns: auto auto auto;
-		grid-gap: 20px;
+		grid-gap: 10px;
 	}
 
 .grid img {
-    max-width: 400px;
-    max-height: 600;
+    max-width: 200px;
+    max-height: 400;
+}
+
+.diff {
+    background-color: #0d3b66;
 }
 
 footer {
