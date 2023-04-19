@@ -1,6 +1,8 @@
 /* CSS RESET */
-html body h1 h1 blockquote table header nav main footer {
-
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 /*
