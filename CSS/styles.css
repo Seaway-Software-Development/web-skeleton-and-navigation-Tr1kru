@@ -33,6 +33,11 @@ h2 {
 
 }
 
+legend {
+    font-size: 2em;
+    text-align: center;
+}
+
 blockquote {
 
 }
