@@ -38,6 +38,11 @@ legend {
     text-align: center;
 }
 
+form {
+    margin: 2%;
+    padding: 2%;
+}
+
 blockquote {
 
 }
