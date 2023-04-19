@@ -34,7 +34,9 @@ h2 {
 }
 
 h3 {
-
+    color: #faf0ca;
+    font-size: 1.8em;
+    font-family: 'Silkscreen', cursive;
 }
 
 legend {
@@ -137,6 +139,11 @@ section a {
 		grid-template-columns: auto auto auto;
 		grid-gap: 20px;
 	}
+
+.grid img {
+    max-width: 400px;
+    max-height: 600;
+}
 
 footer {
     background-color: #0d3b66;
