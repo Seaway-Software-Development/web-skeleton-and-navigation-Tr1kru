@@ -80,6 +80,12 @@ main {
 background-color: #f4d35e;
 }
 
+p {
+    font-size: 2.5em;
+    font-family: 'Silkscreen', cursive;
+    color: #0d3b66;
+}
+
 #container {
     width: 80%;
     display: inherit;
@@ -101,6 +107,17 @@ section {
 
 section a {
     color: #0d3b66;
+}
+
+.frame {
+	position: relative;
+	max-width: 425px;
+	margin: 2% auto;
+}
+
+.map {
+    width: 600px;
+    height: 450px;
 }
 
 footer {
