@@ -33,6 +33,10 @@ h2 {
 
 }
 
+h3 {
+
+}
+
 legend {
     font-size: 2em;
     text-align: center;
@@ -128,7 +132,11 @@ section a {
     height: 450px;
 }
 
-
+.grid {
+		display: grid;
+		grid-template-columns: auto auto auto;
+		grid-gap: 20px;
+	}
 
 footer {
     background-color: #0d3b66;
