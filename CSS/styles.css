@@ -49,6 +49,11 @@ h4 {
     font-family: 'Monoton', cursive;
 }
 
+h5 {
+    color: #faf0ca;
+    font-size: 1.2em;
+}
+
 legend {
     font-size: 2em;
     text-align: center;
@@ -179,6 +184,14 @@ section a {
 float: right;
 background-color: #0d3b66;
 
+}
+
+.top img {
+float: left;
+}
+
+.bottom img {
+float: left;
 }
 
 footer {
