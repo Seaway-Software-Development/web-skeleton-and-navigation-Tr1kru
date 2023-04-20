@@ -164,6 +164,11 @@ section a {
     background-color: #0d3b66;
 }
 
+.middle img {
+float: right;
+
+}
+
 footer {
     background-color: #0d3b66;
     color: #faf0ca;
