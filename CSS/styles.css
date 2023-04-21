@@ -46,6 +46,7 @@ h3 {
 
 h3 a {
     color: #0d3b66;
+    text-decoration: none;
 }
 
 h4 {
@@ -183,6 +184,11 @@ section a {
 
 .diff {
     background-color: #0d3b66;
+}
+
+.diff a {
+    text-decoration: none;
+    color: #faf0ca;
 }
 
 .middle img {
